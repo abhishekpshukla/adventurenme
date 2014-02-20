@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Adventurenme::Application.config.secret_key_base = '6b0c2c81afc2a37a7b8d00757fe0b305e2ee78d5e2d9fbcad772dae3922eb7ca152f2af4df4b397145410c76535bb5b7e1c4e1caf9208ccc48216bfa4d0e0120'
+Adventurenme::Application.config.secret_key_base = 'aeda541e2f60ee403a10aecc3f53e4edc1a76f885a7925455d04868730490248a1b1c902b2d517a165253bd6da293cf1e314dc7a2d078945396d7dbd60bd85d4'
